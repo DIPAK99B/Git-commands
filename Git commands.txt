@@ -55,3 +55,8 @@ remote conneciton
 git remote add origin git@github.com:DIPAK99B/Git-commands.git <- this will add file conneciton name 
 git remote <- names 
 git remote -v <- this command will show original and https
+
+
+
+https://www.bing.com/videos/search?q=advanced+java+concepts&docid=607997989268685609&mid=96F86C14A03A9D32A08996F86C14A03A9D32A089&view=detail&FORM=VIRE
+https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry
