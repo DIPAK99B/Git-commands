@@ -20,7 +20,7 @@ git config --global user.email
 to initialize
 git init
 ls -lart ( to show hidden files and all files in cwd )
-git status ( this show status of the file)
+git status ( this show status of the file)+
 
 to recover file
 git checkout
@@ -59,4 +59,3 @@ git remote -v <- this command will show original and https
 
 
 https://www.bing.com/videos/search?q=advanced+java+concepts&docid=607997989268685609&mid=96F86C14A03A9D32A08996F86C14A03A9D32A089&view=detail&FORM=VIRE
-https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry
